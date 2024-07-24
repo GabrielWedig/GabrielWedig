@@ -6,10 +6,8 @@
 - 📍 Brasil - Rio Grande do Sul
 - 🚀 Meu portfólio **https://portfolio-nine-rosy-59.vercel.app/**
 
-<h3 align="left">Se conecte comigo!</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabrielgw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielgw/" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/gabrielgw/" target="_blank" rel="noreferrer"><img src="https://ibb.co/9wSj5NQ" alt="LinkedIn" width="30" height="30"/></a>
+
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
