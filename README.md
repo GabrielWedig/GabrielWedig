@@ -6,9 +6,6 @@
 - 📍 Brasil - Rio Grande do Sul
 - 🚀 Meu portfólio **https://portfolio-nine-rosy-59.vercel.app/**
 
-<a href="https://www.linkedin.com/in/gabrielgw/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/TKd53k9/button.png" alt="LinkedIn" width="120"/></a>
-<a href="https://portfolio-nine-rosy-59.vercel.app/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/L6PFLQT/button1.png" alt="Portfolio" width="120"/></a>
-
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
     <code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/></a></code>
