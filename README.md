@@ -4,7 +4,7 @@
 - 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedor Full-Stack - React e .NET
 - 📍 Brasil - Rio Grande do Sul
-- 🚀 Meu portfólio <a href="https://portfolio-nine-rosy-59.vercel.app/">Abrir</a>
+- 🚀 Meu <a href="https://portfolio-nine-rosy-59.vercel.app/">portfólio</a>
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
